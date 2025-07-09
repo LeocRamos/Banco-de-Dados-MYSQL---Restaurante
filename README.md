@@ -83,7 +83,7 @@ Projeto acadêmico desenvolvido durante curso de Análise de Dados com foco prá
 
 ---
 
-📫 Para dúvidas, sugestões ou colaborações: [Seu LinkedIn ou GitHub aqui]
+📫 Para dúvidas, sugestões ou colaborações: [www.linkedin.com/in/leonardo-ramos-8b0588327]
 
 
 
